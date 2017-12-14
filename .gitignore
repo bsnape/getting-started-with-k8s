@@ -1,0 +1,4 @@
+.terraform
+plan
+secrets.tfvars
+terraform.tfstate*
